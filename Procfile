@@ -1,1 +1,1 @@
-worker: node noey.js
+worker node noey.js
